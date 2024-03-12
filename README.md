@@ -22,7 +22,7 @@
 
 ### Demo Screeshots
 
-![Vroom Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Vroom Desktop Demo](./readme-images/desktop111.png "Desktop Demo")
 
 ### Prerequisites
 
