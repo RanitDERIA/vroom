@@ -1,9 +1,9 @@
-Ridex - Rent your favourite car
+Vroom - Rent your favourite car
 
 
 # HEADER
 
-alt = Ridex logo
+alt = Vroom logo
 
 Home
 Explore cars
@@ -171,7 +171,7 @@ Company
 Opening of new offices of the company
 
 <ion-icon name="time-outline"></ion-icon>
-January 14, 2022 
+January 14, 2024 
 
 <ion-icon name="chatbubble-ellipses-outline"></ion-icon>
 114
@@ -205,7 +205,7 @@ New rules for handling our cars
 
 # FOOTER
 
-alt = Ridex logo
+alt = Vroom logo
 
 Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, Waydex offers its consumers an attractive and fun selection.
 
